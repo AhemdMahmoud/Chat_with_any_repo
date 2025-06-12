@@ -1,0 +1,7 @@
+langchain-community -q
+gitpython 
+langchain 
+angchain-deeplake 
+langchain-mistralai
+langchain 
+faiss-cpu -q
