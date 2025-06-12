@@ -42,8 +42,8 @@ A superintelligent AI chatbot that can analyze, understand, and answer questions
 
 ### 1. Clone this repository
 ```bash
-git clone <your-repo-url>
-cd rag-codebase-chatbot
+git clone https://github.com/AhemdMahmoud/Chat_with_any_repo.git
+cd Chat_with_any_repo.git
 ```
 
 ### 2. Install required packages
@@ -56,6 +56,10 @@ pip install langchain-deeplake deeplake
 pip install -qU langchain-mistralai
 pip install langchain faiss-cpu
 pip install gradio
+```
+or
+```
+pip installl requirement.txt
 ```
 
 ### 3. Set up Mistral AI API Key
@@ -204,13 +208,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🔍 **FAISS** for efficient vector search
 - 👨‍💻 **Open Source Community** for inspiration and support
 
-## 📞 Support
 
-- 📧 **Email**: your-email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/your-repo/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/your-repo/discussions)
-
----
 
 <div align="center">
 
