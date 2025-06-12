@@ -209,11 +209,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 👨‍💻 **Open Source Community** for inspiration and support
 
 
+[![try from here LIVE_Gradio](https://img.shields.io/badge/Gradio-Interface-orange.svg)](https://ab4c9151895f98d908.gradio.live/)
 
 <div align="center">
 
 **🌟 Star this repository if you find it helpful! 🌟**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Ahmed  Mahmoud]
 
 </div>
